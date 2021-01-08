@@ -1,0 +1,1 @@
+export const SPACE_TO_MOVE = 20
